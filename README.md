@@ -1,6 +1,5 @@
 <h1>Hi there 👋,  I'm Luke</h1>
-<!--[Luke's Portfolio Here!](https://lukeshin3022.github.io/creative_luke/){: .btn .btn--primary } -->
-<a href="https://lukeshin3022.github.io/creative_luke/" class="btn--success">Luke's Portfolio Here!</a>
+<a href="https://lukeshin3022.github.io/creative_luke/" style="background-color:#FFBF00; color: #3d4144; border-radius:4px; cursor:pointer; padding:1% 1% 1% 1%;" rel="nofollow">Luke's Portfolio Here!</a>
 
 <!--
 **LukeShin3022/LukeShin3022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
