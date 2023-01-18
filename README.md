@@ -1,5 +1,9 @@
-<center><h1>Hi there 👋,  I'm Luke</h1></center>
-<a href="https://lukeshin3022.github.io/creative_luke/">Luke's Portfolio Here!</a>
+<h1 align="center">Hi 👋, I'm Luke</h1>
+<h3 align="center">I'm a Backend and Frontend Web Developer</h3>
+
+- 📫 You can checkout my online resume at [Here](https://lukeshin3022.github.io/creative_luke/)
+
+- ⚡ Fun fact: I enjoy riding a bike and snowboarding
 
 <!--
 **LukeShin3022/LukeShin3022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
