@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">I'm a Backend and Frontend Web Developer</h3>
+<h3 align="center">I'm a Full Stack Web Developer</h3>
 
 - 📫 You can checkout my online resume at [Here](https://lukeshin3022.github.io/creative_luke/)
 
